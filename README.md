@@ -11,7 +11,9 @@ The time that it took for the algo to finish without the drawing of the clustser
 ![VisualizationAlgo](https://user-images.githubusercontent.com/15849186/77537448-ccee0980-6ea6-11ea-9397-bd12d95a9432.PNG)
 
 It is clearly seen that the cpp language is much faster in computing that data compared to python.</br>
-Python Time :                         Cpp Time:
-![timeDiff](https://user-images.githubusercontent.com/15849186/77539031-5b638a80-6ea9-11ea-8d1c-44f9fdb3dada.PNG)
+![timeDiff](https://user-images.githubusercontent.com/15849186/77539537-34f21f00-6eaa-11ea-8467-48067713b050.PNG)
+
+:warning: Disclaimer :warning:</br>
+The algorithm is implemented in a very simplistic way, hence if one to implement it in a different way and get different results.
 
 
