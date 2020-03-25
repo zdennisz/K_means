@@ -6,5 +6,6 @@ The algorithem is explained well in https://en.wikipedia.org/wiki/K-means_cluste
 The algorithem in python is run via http://www.codeskulptor.org/ online python enviroment.
 Python Implementation Visualization :
 
-![K-means](https://user-images.githubusercontent.com/15849186/77536901-d1fe8900-6ea5-11ea-85be-b94615ce2d3a.PNG)
+![VisualizationAlgo](https://user-images.githubusercontent.com/15849186/77537448-ccee0980-6ea6-11ea-9397-bd12d95a9432.PNG)
+
 
